@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About me in 30 seconds
+
+My name is Joshua Lowe, and I'm a student at abertay university. I'm studying computer games applications development, and my main language is C++ (with some C# knowledge as well).
+I have the skills of a game developer, but I have also spent a long time learning to code bluetooth connections from The Wiimote Project, a side project of mine I work on outside of uni
