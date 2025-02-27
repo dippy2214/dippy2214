@@ -14,5 +14,5 @@ Welcome to my portfolio, where I showcase my projects
 - Game Engines: Unity, Unreal Engine 5
 
 ## 👋 How to reach me
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/joshua-lowe-479ab0314/)
 - Email me at Joshua220104@Icloud.com
