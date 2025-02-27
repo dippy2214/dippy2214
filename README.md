@@ -1,21 +1,8 @@
-## Hi there 👋
+## 🙋‍♂️ Introducing myself
 
-<!--
-**dippy2214/dippy2214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Josh and I am a student at abertay university. I study Computer Games Applications Development and my main languages are C++ and C#. 
+My passions lie in tools programming and getting to make interesting projects that teach me something new. I rarely make the same thing twice as I'm
+always looking to go another level deeper and explore new interesting areas of the programming world. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# About me in 30 seconds
-
-My name is Joshua Lowe, and I'm a student at abertay university. I'm studying computer games applications development, and my main language is C++ (with some C# knowledge as well).
-I have the skills of a game developer, but I have also spent a long time learning to code bluetooth connections from The Wiimote Project, a side project of mine I work on outside of uni
+I also have skills in bluetooth programming, having taught myself to code it from the ground up as part of my wiimote project, and am very willing to
+try to pick up anything new and interesting.
