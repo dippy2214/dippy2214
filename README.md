@@ -13,4 +13,6 @@ Welcome to my portfolio, where I showcase my projects
 - Languages: C++, C#
 - Game Engines: Unity, Unreal Engine 5
 
-  
+## 👋 How to reach me
+- LinkedIn
+- Email me at Joshua220104@Icloud.com
