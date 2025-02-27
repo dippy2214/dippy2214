@@ -1,8 +1,9 @@
 ## 🙋‍♂️ Introducing myself
 
-Hi there, I'm Josh and I am a student at abertay university. I study Computer Games Applications Development and my main languages are C++ and C#. 
-My passions lie in tools programming and getting to make interesting projects that teach me something new, and I rarely make the same thing twice - I'm
-always looking to go another level deeper and explore new interesting areas of the programming world!
+Hi there, I'm Josh and I am a student at abertay university, studying Computer Games Applications Development.
+- Coding experience in C++ and C#
+- Developed games in both unity and unreal engine (as well as Abertays in-house skateboard engine for the PS5)
+- Experience making tools in unity for developers and designers to use while creating games
+- Experience working with bluetooth programming through the windows API
 
-I also have skills in bluetooth programming, having taught myself to code it from the ground up as part of my wiimote project, and am very willing to
-try to pick up anything new and interesting.
+
