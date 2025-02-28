@@ -9,7 +9,7 @@ Hi there, I'm Josh and I am a student at abertay university, studying Computer G
 ## 📚 Projects
 Welcome to my portfolio, where I showcase my projects
 
-## 🛠 Tools
+## 🛠 Tools and skillsets
 - Languages: C++, C#
 - Game Engines: Unity, Unreal Engine 5, Custom engines
 - Visual studio, VSCode
