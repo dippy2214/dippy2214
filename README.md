@@ -3,7 +3,7 @@
 Hi there, I'm Josh and I am a student at abertay university, studying Computer Games Applications Development.
 - Coding experience in C++ and C#
 - Developed games in both Unity and Unreal Engine (as well as Abertays in-house skateboard engine for the PS5)
-- Experience making tools in unity for developers and designers to use while creating games
+- Experience making tools in Unity for developers and designers to use while creating games
 - Experience working with bluetooth programming through the windows API
 
 ## 📚 Projects
