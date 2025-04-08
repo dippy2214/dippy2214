@@ -12,8 +12,8 @@ Welcome to my [portfolio](https://github.com/dippy2214/Portfolio-Guide), where I
 ## 🛠 Tools and skillsets
 - Languages: C++, C#
 - Game Engines: Unity, Unreal Engine 5, Custom engines
-- Visual studio, VSCode
-- Git
+- Developer Tools: Visual studio, VSCode
+- Source Control: Git
 
 ## 👋 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/joshua-lowe-479ab0314/)
