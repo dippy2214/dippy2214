@@ -7,7 +7,7 @@ Hi there, I'm Josh and I am a student at Abertay University, studying Computer G
 - Experience working with bluetooth programming through the windows API
 
 ## 📚 Projects
-Welcome to my [portfolio](https://github.com/dippy2214/Portfolio-Guide), where I showcase my projects.
+Welcome to my [portfolio](https://dippy2214.github.io/JoshuaLowe/), where I showcase my projects.
 
 ## 🛠 Tools and skillsets
 - Languages: C++, C#
